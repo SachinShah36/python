@@ -1,0 +1,7 @@
+f=open("C:\\Users\\Sachin\\OneDrive\\Desktop\\file handling\\sachin.txt","w")
+f.write("")
+f=open("C:\\Users\\Sachin\\OneDrive\\Desktop\\file handling\\sachin.txt","r")
+print(f.read())
+f=open("C:\\Users\\Sachin\\OneDrive\\Desktop\\file handling\\sachin.txt","a")
+f.write("san")
+f.close()

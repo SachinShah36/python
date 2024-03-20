@@ -1,0 +1,2 @@
+obj.herbivores()
+obj.both()
